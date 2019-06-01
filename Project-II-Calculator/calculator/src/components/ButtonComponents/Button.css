@@ -1,0 +1,18 @@
+.action{
+    width: 300px;
+    height: 100px;
+  }
+  
+  .action h1{
+    text-align: center;
+  
+  }
+  .buttons{
+    padding: 30px;
+    height: 100px;
+    width: 100px;
+  }
+  
+  .operationButton{
+    background: brown;
+  }
